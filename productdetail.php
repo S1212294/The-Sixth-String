@@ -123,7 +123,6 @@ if ($result->num_rows > 0) {
     <h1>Guitarshop The Sixth String</h1>
     <p>Efficiënt beheer van de productgegevens</p>
 </div>
-
 <main>
     <div class="product-container">
         <div class="product-image">
